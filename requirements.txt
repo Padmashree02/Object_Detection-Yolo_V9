@@ -1,0 +1,5 @@
+#required libraries
+cv2
+matplotlib.pyplot
+numpy
+ultralytics
